@@ -1,2 +1,2 @@
-# NQueensSolution
+# NQueens Solution SAT Solver
  
